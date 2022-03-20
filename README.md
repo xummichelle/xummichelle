@@ -11,7 +11,7 @@ Currently, I am...
 * 🏗️ Building on [Craftyly](https://github.com/xummichelle/craftyly-app) (an Android Java app), I hope to continue to familiarize myself with app development
 * 😄 A grade 12 student going into computer science post-secondary studies  
 
-📩 Reach me at: xummichelle@gmail.com
+📩 Reach me at: xummichelle@gmail.com  
 More work in Unity game development in private repository.
 
 <!--
