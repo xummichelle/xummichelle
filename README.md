@@ -12,6 +12,7 @@ Currently, I am...
 * 😄 A grade 12 student going into computer science post-secondary studies  
 
 📩 Reach me at: xummichelle@gmail.com
+More work in Unity game development in private repository.
 
 <!--
 **xummichelle/xummichelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
