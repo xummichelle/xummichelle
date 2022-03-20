@@ -4,7 +4,6 @@
 I like building projects with others, experimenting with new skills and opportunities, and entering hackathons. ✨  
 Python, Java, C# and Unity Beginner
 
-<img src="https://user-images.githubusercontent.com/96635277/159151440-863b31f3-e54e-4cd0-8537-8babfe7384f7.jpg" align="left" width="200" height="200"/>
 
 Currently, I am...
 
