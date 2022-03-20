@@ -1,7 +1,9 @@
-![github-header-image (1)](https://user-images.githubusercontent.com/96635277/159150913-62867107-5666-4cc8-8e68-8f259bcceb53.png) <img src="https://user-images.githubusercontent.com/96635277/159151440-863b31f3-e54e-4cd0-8537-8babfe7384f7.jpg" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/96635277/159150913-62867107-5666-4cc8-8e68-8f259bcceb53.png" width="665" height="200"/> 
 
 
-I like building projects with others, experimenting with new skills and opportunities, and occasionally entering hackathons. ✨
+I like building projects with others, experimenting with new skills and opportunities, and occasionally entering hackathons. ✨  
+
+<img src="https://user-images.githubusercontent.com/96635277/159151440-863b31f3-e54e-4cd0-8537-8babfe7384f7.jpg" align="left" width="200" height="200"/>
 
 Currently, I am...
 
