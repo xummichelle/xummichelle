@@ -9,7 +9,7 @@ Currently, I am...
 
 * 🌱 Learning web development programming languages (HTML, Javascript)
 * 🏗️ Building on [Craftyly](https://github.com/xummichelle/craftyly-app) (an Android Java app), I hope to continue to familiarize myself with app development
-* 😄 A grade 12 student going into computer science post-secondary studies  
+* 😄 A double-degree student in the BBA/BCS program at Wilfred Laurier and the University of Waterloo
 
 📩 Reach me at: xummichelle@gmail.com  
 More work in Unity game development in private repository.
