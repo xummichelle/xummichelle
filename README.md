@@ -4,7 +4,6 @@
 * Python, Android Java, Javascript, C# and Unity 
 
 📩 Reach me at: xummichelle@gmail.com  
-More work in Unity game development in private repository.
 
 <!--
 **xummichelle/xummichelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
