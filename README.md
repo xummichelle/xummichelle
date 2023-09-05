@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/96635277/159150913-62867107-5666-4cc8-8e68-8f259bcceb53.png" width="665" height="200"/> 
 
 
-I like coding with others, exploring new technologies, and creating fun, fulfilling projects. ✨  
-* A double-degree student in the BBA/BCS program at Wilfred Laurier University and the University of Waterloo
 * Python, Android Java, Javascript, C# and Unity 
 
 📩 Reach me at: xummichelle@gmail.com  
