@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/96635277/159150913-62867107-5666-4cc8-8e68-8f259bcceb53.png" width="665" height="200"/> 
 
 
-* Python, Android Java, Javascript, C# and Unity 
+* Python, Java, Golang, Javascript, C# and Unity 
 
 📩 Reach me at: xummichelle@gmail.com  
 
