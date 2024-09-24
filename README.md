@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/96635277/159150913-62867107-5666-4cc8-8e68-8f259bcceb53.png" width="665" height="200"/> 
 
-
+* CS/BBA Double Degree Student at the University of Waterloo and Wilfrid Laurier University
 * Python, Java, Golang, Javascript, C# and Unity 
 
 📩 Reach me at: xummichelle@gmail.com  
